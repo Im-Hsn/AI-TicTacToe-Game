@@ -1,6 +1,3 @@
-Here's a revised version of your `README.md` with the requested changes:
-
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" alt="project-logo">
 </p>
@@ -8,7 +5,7 @@ Here's a revised version of your `README.md` with the requested changes:
     <h1 align="center">AI-TICTACTOE-GAME</h1>
 </p>
 <p align="center">
-    <em><code>► An unbeatable Tic-Tac-Toe game</code></em>
+    <em><code>► INSERT-TEXT-HERE</code></em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. -->
@@ -34,25 +31,20 @@ Here's a revised version of your `README.md` with the requested changes:
   - [ Tests](#-tests)
 - [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
+- [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 </details>
 <hr>
 
 ##  Overview
 
-The AI-TicTacToe-Game project features an unbeatable Tic-Tac-Toe game using advanced algorithms. The game provides two options for running: 
-- **Alpha-Beta Pruning** 
-- **Minimax Algorithm**
-
-These algorithms ensure that the game is impossible to beat, providing an optimal experience.
+<code>► INSERT-TEXT-HERE</code>
 
 ---
 
 ##  Features
 
-- Unbeatable Tic-Tac-Toe game
-- Two algorithm options: Alpha-Beta Pruning and Minimax
-- Interactive command-line interface
+<code>► INSERT-TEXT-HERE</code>
 
 ---
 
@@ -81,7 +73,7 @@ These algorithms ensure that the game is impossible to beat, providing an optima
 
 | File               | Summary                         |
 | ---                | ---                             |
-| [main.py](main.py) | Entry point of the game          |
+| [main.py](main.py) | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
@@ -89,11 +81,11 @@ These algorithms ensure that the game is impossible to beat, providing an optima
 
 | File                                 | Summary                         |
 | ---                                  | ---                             |
-| [alpha_beta.py](src/alpha_beta.py)   | Implements the Alpha-Beta Pruning algorithm |
-| [gui.py](src/gui.py)                 | Contains GUI-related code        |
-| [__init__.py.py](src/__init__.py.py) | Initialization for the package    |
-| [minimax.py](src/minimax.py)         | Implements the Minimax algorithm |
-| [game.py](src/game.py)               | Core game logic                  |
+| [alpha_beta.py](src/alpha_beta.py)   | <code>► INSERT-TEXT-HERE</code> |
+| [gui.py](src/gui.py)                 | <code>► INSERT-TEXT-HERE</code> |
+| [__init__.py.py](src/__init__.py.py) | <code>► INSERT-TEXT-HERE</code> |
+| [minimax.py](src/minimax.py)         | <code>► INSERT-TEXT-HERE</code> |
+| [game.py](src/game.py)               | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
@@ -112,7 +104,7 @@ These algorithms ensure that the game is impossible to beat, providing an optima
 > 1. Clone the AI-TicTacToe-Game repository:
 >
 > ```console
-> $ git clone <repository-url>
+> $ git clone ../AI-TicTacToe-Game
 > ```
 >
 > 2. Change to the project directory:
@@ -145,9 +137,9 @@ These algorithms ensure that the game is impossible to beat, providing an optima
 
 ##  Project Roadmap
 
-- [X] Implemented Alpha-Beta Pruning algorithm
-- [X] Implemented Minimax algorithm
-- [ ] Enhance GUI for better user experience
+- [X] `► INSERT-TASK-1`
+- [ ] `► INSERT-TASK-2`
+- [ ] `► ...`
 
 ---
 
@@ -165,7 +157,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your local account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone <repository-url>
+   git clone ../AI-TicTacToe-Game
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -196,6 +188,12 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ---
 
+##  License
+
+This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+
+---
+
 ##  Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
@@ -203,13 +201,3 @@ Contributions are welcome! Here are several ways you can contribute:
 [**Return**](#-overview)
 
 ---
-
-<p align="center">
-  <img src="path/to/first-image.png" alt="First Image" width="400">
-  <img src="path/to/second-image.png" alt="Second Image" width="400">
-</p>
-```
-
-### Notes:
-1. Replace `<repository-url>` with the actual URL of your repository.
-2. Replace `path/to/first-image.png` and `path/to/second-image.png` with the paths or URLs to your images.
