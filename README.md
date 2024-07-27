@@ -84,7 +84,7 @@ To install and run the AI-TicTacToe-Game, follow these steps:
 1. **Clone the Repository:**
 
    ```console
-   $ git clone <repository-url>
+   $ git clone https://github.com/Im-Hsn/AI-TicTacToe-Game.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -112,8 +112,3 @@ $ python main.py
 ---
 
 [**Return to Top**](#table-of-contents)
-
-<p align="center">
-  <img src="path/to/first-image.png" alt="First Image" width="400">
-  <img src="path/to/second-image.png" alt="Second Image" width="400">
-</p>
