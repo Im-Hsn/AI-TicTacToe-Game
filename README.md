@@ -1,25 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" alt="project-logo">
-</p>
-<p align="center">
     <h1 align="center">AI-TICTACTOE-GAME</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>► An unbeatable Tic-Tac-Toe game with Alpha-Beta Pruning and Minimax algorithms</code></em>
 </p>
 <p align="center">
-	<!-- local repository, no metadata badges. -->
-<p>
-<p align="center">
-		<em>Developed with the software and tools below.</em>
+	<em>Developed with the software and tools below.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=default&logo=Python&logoColor=white" alt="Python">
 </p>
 
 <br><!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary><br>
+
+## Table of Contents
 
 - [ Overview](#-overview)
 - [ Features](#-features)
@@ -30,25 +24,28 @@
   - [ Usage](#-usage)
   - [ Tests](#-tests)
 - [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
-</details>
+
 <hr>
 
-##  Overview
+## Overview
 
-<code>► INSERT-TEXT-HERE</code>
+The AI-TicTacToe-Game project provides an unbeatable Tic-Tac-Toe game using advanced algorithms. The game can be run using two different algorithms:
 
----
-
-##  Features
-
-<code>► INSERT-TEXT-HERE</code>
+- **Alpha-Beta Pruning**: Optimizes the Minimax algorithm to reduce the number of nodes evaluated in the search tree.
+- **Minimax Algorithm**: A classic algorithm that minimizes the possible loss for a worst-case scenario.
 
 ---
 
-##  Repository Structure
+## Features
+
+- **Unbeatable Game**: Ensures that the game is impossible to beat using either algorithm.
+- **Interactive CLI**: Run the game and choose your algorithm via the command line.
+- **Two Algorithm Options**: Choose between Alpha-Beta Pruning and Minimax for your gameplay.
+
+---
+
+## Repository Structure
 
 ```sh
 └── AI-TicTacToe-Game/
@@ -57,7 +54,7 @@
     │   └── font.ttf
     ├── main.py
     └── src
-        ├── __init__.py.py
+        ├── __init__.py
         ├── __pycache__
         ├── alpha_beta.py
         ├── game.py
@@ -67,72 +64,65 @@
 
 ---
 
-##  Modules
+## Modules
 
-<details closed><summary>.</summary>
-
-| File               | Summary                         |
-| ---                | ---                             |
-| [main.py](main.py) | <code>► INSERT-TEXT-HERE</code> |
-
-</details>
-
-<details closed><summary>src</summary>
-
-| File                                 | Summary                         |
-| ---                                  | ---                             |
-| [alpha_beta.py](src/alpha_beta.py)   | <code>► INSERT-TEXT-HERE</code> |
-| [gui.py](src/gui.py)                 | <code>► INSERT-TEXT-HERE</code> |
-| [__init__.py.py](src/__init__.py.py) | <code>► INSERT-TEXT-HERE</code> |
-| [minimax.py](src/minimax.py)         | <code>► INSERT-TEXT-HERE</code> |
-| [game.py](src/game.py)               | <code>► INSERT-TEXT-HERE</code> |
-
-</details>
+| File                                 | Summary                                               |
+| ------------------------------------ | ----------------------------------------------------- |
+| [main.py](main.py)                   | Entry point for the Tic-Tac-Toe game.                |
+| [alpha_beta.py](src/alpha_beta.py)   | Implements the Alpha-Beta Pruning algorithm.         |
+| [gui.py](src/gui.py)                 | Contains the graphical user interface code.          |
+| [__init__.py](src/__init__.py)       | Initialization for the package.                      |
+| [minimax.py](src/minimax.py)         | Implements the Minimax algorithm.                    |
+| [game.py](src/game.py)               | Core logic for the Tic-Tac-Toe game.                 |
 
 ---
 
-##  Getting Started
+## Getting Started
 
-**System Requirements:**
+### Installation
 
-* **Python**: `version x.y.z`
+To install and run the AI-TicTacToe-Game, follow these steps:
 
-###  Installation
+1. **Clone the Repository:**
 
-<h4>From <code>source</code></h4>
+   ```console
+   $ git clone <repository-url>
+   ```
 
-> 1. Clone the AI-TicTacToe-Game repository:
->
-> ```console
-> $ git clone ../AI-TicTacToe-Game
-> ```
->
-> 2. Change to the project directory:
-> ```console
-> $ cd AI-TicTacToe-Game
-> ```
->
+2. **Navigate to the Project Directory:**
 
----
+   ```console
+   $ cd AI-TicTacToe-Game
+   ```
 
-###  Usage
+### Usage
 
-<h4>From <code>source</code></h4>
+Run the AI-TicTacToe-Game using the following command:
 
-> Run AI-TicTacToe-Game using the command below:
-> ```console
-> $ python main.py
-> ```
-
-
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [X] `► INSERT-TASK-2`
-- [X] `► ...`
+```console
+$ python main.py
+```
 
 ---
 
-[**Return**](#-overview)
+## Project Roadmap
+
+- [X] Implemented Alpha-Beta Pruning algorithm.
+- [X] Implemented Minimax algorithm.
+- [X] Enhance GUI for a better user experience.
 
 ---
+
+## Acknowledgments
+
+- Special thanks to the contributors and tools that made this project possible.
+
+[**Return to Top**](#-overview)
+
+---
+
+<p align="center">
+  <img src="path/to/first-image.png" alt="First Image" width="400">
+  <img src="path/to/second-image.png" alt="Second Image" width="400">
+</p>
+```
