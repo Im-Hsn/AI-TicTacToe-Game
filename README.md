@@ -15,16 +15,15 @@
 
 ## Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Acknowledgments](#-acknowledgments)
+- [Overview](#overview)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Modules](#modules)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Project Roadmap](#project-roadmap)
+- [Acknowledgments](#acknowledgments)
 
 <hr>
 
@@ -117,11 +116,10 @@ $ python main.py
 
 - Special thanks to the contributors and tools that made this project possible.
 
-[**Return to Top**](#-overview)
+[**Return to Top**](#table-of-contents)
 
 <p align="center">
   <img src="path/to/first-image.png" alt="First Image" width="400">
   <img src="path/to/second-image.png" alt="Second Image" width="400">
 </p>
-
----
+```
