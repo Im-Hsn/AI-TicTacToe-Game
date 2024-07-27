@@ -23,7 +23,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
 - [Project Roadmap](#project-roadmap)
-- [Acknowledgments](#acknowledgments)
 
 <hr>
 
