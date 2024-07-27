@@ -119,10 +119,9 @@ $ python main.py
 
 [**Return to Top**](#-overview)
 
----
-
 <p align="center">
   <img src="path/to/first-image.png" alt="First Image" width="400">
   <img src="path/to/second-image.png" alt="Second Image" width="400">
 </p>
-```
+
+---
